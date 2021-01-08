@@ -1,0 +1,2 @@
+[1222/182327.501:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[1222/182617.237:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\USER\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\a1b87602-9311-43f5-9fb3-6a58c785767a: The system cannot find the path specified. (0x3)
